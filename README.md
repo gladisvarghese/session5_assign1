@@ -1,0 +1,2 @@
+# session5_assign1
+WORKING WITH S3 AND PERMISSIONS
